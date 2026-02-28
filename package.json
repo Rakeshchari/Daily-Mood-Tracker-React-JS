@@ -2,6 +2,7 @@
   "name": "daily-mood-tracker",
   "private": true,
   "version": "1.0.0",
+  "packageManager": "pnpm@9.0.0",
   "engines": {
     "node": "24.x",
     "npm": ">=6"
